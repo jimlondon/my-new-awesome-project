@@ -11,5 +11,5 @@ updates:
       interval: "daily"
       # Raise all npm pull requests with custom labels
     labels:
-      - "all dependencies"
+      - "npm dependencies"
       - "triage-board"
