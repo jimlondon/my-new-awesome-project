@@ -9,3 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+      # Raise all npm pull requests with custom labels
+      labels:
+        - "all dependencies"
+        - "triage-board"
